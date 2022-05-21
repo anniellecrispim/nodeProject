@@ -1,0 +1,21 @@
+input {
+    background-color: rgba(154, 168, 168, 0.855);
+    border-style: ridge;
+}
+
+button {
+    border: 5px solid beige;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.891);
+    color: aliceblue;
+
+}
+
+form {
+display: flex;
+flex-direction: column;
+width: 400px;
+padding-left: 450px;
+padding-top: 150px;
+}
+
